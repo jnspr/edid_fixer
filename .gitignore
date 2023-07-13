@@ -1,0 +1,11 @@
+# Build artifacts
+/*.cmd
+/*.ko
+/*.mod*
+/*.o
+/*.symvers
+/*.order
+
+# Development environment
+/.vscode
+/run.sh
